@@ -1,2 +1,5 @@
 #pip packages 
-.env/
+compvision/
+
+#jupyter notebook checkpoints 
+*/.ipynb_checkpoints/*
