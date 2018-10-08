@@ -3,3 +3,6 @@ compvision/
 
 #jupyter notebook checkpoints 
 */.ipynb_checkpoints/*
+
+#submission zip files
+*.zip
