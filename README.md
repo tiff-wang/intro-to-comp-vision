@@ -3,7 +3,7 @@
 Tiffany Wang, 260684152 
 Professor: Tal Arbel
 
-This repos holds all of my up-to-date ECSE 415 assignments. I don't mind if you use them as a reference. However, I would really appreciate it if you can give the repos a *star*. Thanks! 
+This repos holds all of my up-to-date ECSE 415 assignments. I don't mind if you use them as a reference. However, please don't just clone and copy. :) 
 
 This class goes over basic feature extraction methods (sharpening, denoising, SIFT, SURF, etc.), template matching, image stitching methodologies that are important in computer vision. 
 
